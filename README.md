@@ -1,20 +1,23 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+*/
+Project Description:
+Our Cryptocurrency Tracker App, developed using React, Material UI, and Chart JS, offers a user-friendly interface to monitor real-time cryptocurrency prices and trends. With responsive design and the power of Context API, users can explore interactive charts, search for specific coins, and filter results. Leveraging Coin Gecko API, this app provides up-to-date market data, making it a valuable tool for both enthusiasts and investors.
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+Key Features:
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+Real-time Price Tracking
+Interactive Charts with Historical Data
+Material UI for Modern Design
+Context API for Efficient State Management
+Search, Filter, and Coin Details
+Responsive Layout for Any Device
+Technologies:
 
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
-
-## Built with 
-
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
-
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
-
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
-
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+React JS
+Material UI
+Chart JS
+Context API
+Coin Gecko API
+Responsive Design
+Conclusion:
+Our Cryptocurrency Tracker App showcases the synergy of modern technologies, offering a powerful yet user-friendly tool to stay updated on cryptocurrency markets. This project highlights your skills in React development, UI design, and API integration, providing a valuable resource for crypto enthusiasts and investors.
+/*
