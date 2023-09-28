@@ -1,6 +1,6 @@
 
 Project Description:
-Our Cryptocurrency Tracker App, developed using React, Material UI, and Chart JS, offers a user-friendly interface to monitor real-time cryptocurrency prices and trends. With responsive design and the power of Context API, users can explore interactive charts, search for specific coins, and filter results. Leveraging Coin Gecko API, this app provides up-to-date market data, making it a valuable tool for both enthusiasts and investors.
+Cryptocurrency Tracker App, developed using React, Material UI, and Chart JS, offers a user-friendly interface to monitor real-time cryptocurrency prices and trends. With responsive design and the power of Context API, users can explore interactive charts, search for specific coins, and filter results. Leveraging Coin Gecko API, this app provides up-to-date market data, making it a valuable tool for both enthusiasts and investors.
 
 Key Features:
 
